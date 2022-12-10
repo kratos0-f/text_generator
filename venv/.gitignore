@@ -1,0 +1,8 @@
+# ignore file with token
+TOKEN.py
+
+# ignore idea files
+/.idea
+
+# ignore venv files
+/.venv
