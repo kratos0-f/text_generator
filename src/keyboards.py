@@ -3,7 +3,7 @@ from aiogram.types import ReplyKeyboardRemove, ReplyKeyboardMarkup, \
 
 button_help = KeyboardButton("/Help")
 button_generate_text = KeyboardButton("/Generate_text")
-button_show_stats = KeyboardButton("/Statistic")
+button_show_stats = KeyboardButton("/Stat")
 
 greet_kb = ReplyKeyboardMarkup(resize_keyboard=True)
 greet_kb.add(button_help)
